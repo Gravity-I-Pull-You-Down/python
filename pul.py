@@ -1,2 +1,5 @@
 import sys
-print("Have fun")
+for i<100:
+  print("Have fun")
+  ++i
+
